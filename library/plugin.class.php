@@ -1,15 +1,17 @@
 <?php
+namespace cipher;
+
 /**
- * @package LC_Plugin
+ * @package LC Plugin
  * @version 1.0
  * @copyright Copyright 2019 Luigi Cavalieri.
- * @license https://opensource.org/licenses/GPL-3.0 GPL v3.0
+ * @license https://opensource.org/licenses/GPL-3.0 GPL 3.0
  *
  *
  *
- * Abstraction of the plugin's main class.
+ * A base class upon which can be built the plugin's main class.
  */
-abstract class LC_Plugin {
+abstract class Plugin {
     /**
      * @since 1.0
      */

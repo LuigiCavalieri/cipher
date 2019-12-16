@@ -2,7 +2,7 @@
 /**
  * @package Cipher
  * @copyright Copyright 2019 Luigi Cavalieri.
- * @license https://opensource.org/licenses/GPL-3.0 GPL v3.0
+ * @license https://opensource.org/licenses/GPL-3.0 GPL 3.0
  *
  *
  *
@@ -10,7 +10,7 @@
  *
  * @since 1.0
  */
-final class Cipher extends LC_Plugin {
+final class Cipher extends cipher\Plugin {
 	/**
 	 * @since 1.2
 	 */
@@ -19,7 +19,7 @@ final class Cipher extends LC_Plugin {
 	/**
 	 * @since 1.0
 	 */
-	const VERSION = '1.2';
+	const VERSION = '1.2.1';
 
 	/**
 	 * @since 1.0

@@ -6,8 +6,8 @@ Tags: backticks, blocks, code, encode, convert, entities, comment, pre, preforma
 Requires at least: 5.2
 Tested up to: 5.3
 Requires PHP: 5.6.20
-Stable tag: 1.2
-License: GPL v3.0
+Stable tag: 1.2.1
+License: GPL 3.0
 License URI: https://opensource.org/licenses/GPL-3.0
 
 Cipher allows commenters to publish (pre-formatted) code.
@@ -31,12 +31,16 @@ Upload in the 'plugins' folder and activate.
 
 == Upgrade Notice ==
 
-= 1.2 =
+= 1.2.1 =
 
-Removed the QuickTags feature and made a deep refactoring.
+General improvements.
 
 
 == Changelog ==
+
+= 1.2.1 =
+
+Improved the namespacing of the base class.
 
 = 1.2 =
 

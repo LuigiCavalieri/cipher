@@ -2,7 +2,7 @@
 /**
  * @package Cipher
  * @copyright Copyright 2019 Luigi Cavalieri.
- * @license https://opensource.org/licenses/GPL-3.0 GPL v3.0
+ * @license https://opensource.org/licenses/GPL-3.0 GPL 3.0
  *
  *
  *
