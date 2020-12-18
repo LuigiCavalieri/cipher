@@ -4,7 +4,7 @@ namespace cipher;
 /**
  * @package LC Plugin
  * @version 1.0
- * @copyright Copyright 2019 Luigi Cavalieri.
+ * @copyright Copyright 2020 Luigi Cavalieri.
  * @license https://opensource.org/licenses/GPL-3.0 GPL v3.0
  *
  *

@@ -11,12 +11,12 @@
  * 
  * 
  * @package Cipher
- * @copyright Copyright 2019 Luigi Cavalieri.
  * @version 1.2.2
+ * @copyright Copyright 2020 Luigi Cavalieri.
  * @license https://opensource.org/licenses/GPL-3.0 GPL v3.0
  * 
  * 
- * Copyright 2019 Luigi Cavalieri.
+ * Copyright 2020 Luigi Cavalieri.
  * 
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
