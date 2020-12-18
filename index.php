@@ -1,1 +1,0 @@
-<?php /* Directory listing denied */ ?>
