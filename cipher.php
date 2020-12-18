@@ -3,7 +3,7 @@
  * Plugin Name: Cipher
  * Plugin URI: https://sitetreeplugin.com/blog/cipher/
  * Description: Cipher allows commenters to publish (pre-formatted) code.
- * Version: 1.2.1
+ * Version: 1.2.2
  * Author: Luigi Cavalieri
  * Author URI: http://luigicavalieri.com
  * License: GPL v3.0
@@ -11,8 +11,8 @@
  * 
  * 
  * @package Cipher
- * @version 1.2.1
  * @copyright Copyright 2019 Luigi Cavalieri.
+ * @version 1.2.2
  * @license https://opensource.org/licenses/GPL-3.0 GPL v3.0
  * 
  * 
