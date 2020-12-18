@@ -1,11 +1,11 @@
 <?php 
 /**
  * Plugin Name: Cipher
- * Plugin URI: https://sitetreeplugin.com/blog/cipher/
+ * Plugin URI:
  * Description: Cipher allows commenters to publish (pre-formatted) code.
  * Version: 1.2.2
  * Author: Luigi Cavalieri
- * Author URI: http://luigicavalieri.com
+ * Author URI: https://luigicavalieri.com
  * License: GPL v3.0
  * License URI: https://opensource.org/licenses/GPL-3.0
  * 
