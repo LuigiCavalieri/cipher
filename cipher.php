@@ -6,14 +6,14 @@
  * Version: 1.2.1
  * Author: Luigi Cavalieri
  * Author URI: http://luigicavalieri.com
- * License: GPL 3.0
+ * License: GPL v3.0
  * License URI: https://opensource.org/licenses/GPL-3.0
  * 
  * 
  * @package Cipher
  * @version 1.2.1
  * @copyright Copyright 2019 Luigi Cavalieri.
- * @license https://opensource.org/licenses/GPL-3.0 GPL 3.0
+ * @license https://opensource.org/licenses/GPL-3.0 GPL v3.0
  * 
  * 
  * Copyright 2019 Luigi Cavalieri.
