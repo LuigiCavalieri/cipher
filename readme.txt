@@ -4,7 +4,7 @@ Plugin URI:
 Contributors: _luigi
 Tags: backticks, code, comment, preformatted, snippet
 Requires at least: 5.2
-Tested up to: 5.6
+Tested up to: 5.9
 Requires PHP: 5.6.20
 Stable tag: 1.2.2
 License: GPL v3.0
